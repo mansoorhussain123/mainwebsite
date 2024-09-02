@@ -129,7 +129,16 @@ html{
     cursor: pointer;
     color: azure;
 }
-
+.btns{
+    margin: 5px 3px;
+    padding: 3px 10px;
+    border: 2px solid rgb(243, 238, 238);
+    border-radius: 20px;
+    font-size: 15px;
+    background: none;
+    cursor: pointer;
+    color: azure;
+}
 .section {
     display: flex;
     height: 500%;
@@ -242,6 +251,7 @@ html{
     }
     .btn{
         text-align: center;
+        opacity:0;
     }
     .buttons{
         text-align: center;
