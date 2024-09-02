@@ -220,8 +220,8 @@ html{
     }
 
     #search {
-        font-size: 10px;
-        width: 100%;
+        width: 0;
+        opacity:0;
     }
     .burger{
         display: block;
